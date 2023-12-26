@@ -375,7 +375,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/作業7 B2B29_atlas_1.png?1703608563353", id:"作業7 B2B29_atlas_1"}
+		{src:"images/作業7 B2B29_atlas_1.png?1703609702176", id:"作業7 B2B29_atlas_1"}
 	],
 	preloads: []
 };
